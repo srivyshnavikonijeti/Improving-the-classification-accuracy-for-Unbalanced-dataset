@@ -1,4 +1,4 @@
-# Improving-the-classification-accuracy-in-the-case-of-Unbalanced-dataset
+# Improving-the-classification-accuracy-for-Unbalanced-dataset
 
 Credit card payment is one of the prevalent means of transactions carried out in both online and offline 
 purchases.With the latest technology and worldwide communications, fraud has increased significantly. 
